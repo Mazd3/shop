@@ -27,3 +27,9 @@ npm i
 npm run start
 ```
 
+#### You can view the Preview 🌐
+[bshop.nikh.me](https://bshop.nikh.me)
+
+
+
+
