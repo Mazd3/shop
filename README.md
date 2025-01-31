@@ -27,6 +27,12 @@ npm i
 npm run start
 ```
 
+#### Build the Application 🔧
+
+```bash
+npm run build
+```
+
 #### You can view the Preview 🌐
 [bshop.nikh.me](https://bshop.nikh.me)
 
