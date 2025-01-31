@@ -1,0 +1,28 @@
+:root {
+  --c-background: #F6F3F3;
+  --c-text: #343030;
+  --c-text-white: #F4F6F9;
+  --c-accent: #382E2B;
+  --c-accent-hover: #776763;
+  --c-accent-disable: #C1B4B1;
+  --c-accent-selected: #5B3A32;
+
+  --content-width: 1240px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  font-family: "Merriweather", serif;
+  font-weight: 400;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--c-background);
+}
