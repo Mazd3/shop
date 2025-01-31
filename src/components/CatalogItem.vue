@@ -52,7 +52,7 @@ export default {
     },
 
     handleClosePopup() {
-      this.showPopup = false;
+      this.showPopup = false;      console.log('qwe', id);
     }
   },
 

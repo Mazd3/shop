@@ -27,12 +27,10 @@ export default {
 
   methods: {
     handleAddToCart(id) {
-      console.log('asd', id);
       this.$emit('addToCart', id);
     },
 
     handleRemoveFromCart(id) {
-      console.log('asd', id);
       this.$emit('removeFromCart', id);
     }
   }

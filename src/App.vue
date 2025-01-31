@@ -72,12 +72,10 @@ export default {
 
   methods: {
     handleAddToCart(id) {
-      console.log('qwe', id);
       this.cart.push(id);
     },
 
     handleRemoveFromCart(id) {
-      console.log('qwe', id);
       this.cart = this.cart.filter(item => item !== id);
     },
     handleSearch(value) {
