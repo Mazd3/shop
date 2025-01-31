@@ -1,7 +1,7 @@
 ## How to Run the Application 🛠️
 
 ### Requirements 📋
-- Make sure you have Node.js version 16 installed.
+- Node.js v16
 
 #### Clone the Repository 📥
 
