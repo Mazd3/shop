@@ -25,7 +25,6 @@ export default {
 
 <style scoped>
 .ui-typography {
-  color: var(--c-text);
   font-family: "Merriweather", serif;
   font-weight: 400;
   font-style: normal;

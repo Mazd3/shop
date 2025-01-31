@@ -63,11 +63,11 @@ export default {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #C1B4B1;
+  background-color: var(--c-accent-disabled);
 }
 
 .ui-button--selected {
-  background-color: #5B3A32;
+  background-color: var(--c-accent-selected);
 }
 
 </style>

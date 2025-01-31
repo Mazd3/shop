@@ -33,7 +33,7 @@ export default {
 
 .ui-popup {
   max-width: calc(min(100vw - 40px, 800px));
-  background-color: #fff;
+  background-color: var(--c-background);
   padding: 24px;
 }
 </style>

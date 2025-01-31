@@ -39,7 +39,11 @@ export default {
 .nav__link {
   padding: 8px 0;
   text-decoration: none;
-  color: #343030;
+  color: var(--c-accent);
+
+  &:hover {
+    color: var(--c-accent-hover);
+  }
 }
 
 @media screen and (max-width: 1200px) {

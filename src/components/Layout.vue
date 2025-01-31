@@ -27,7 +27,7 @@
   top: 0;
   height: 96px;
   background-color: var(--c-background);
-  border-bottom: 1px solid #E1E1E1;
+  border-bottom: 1px solid var(--c-border);
 }
 
 .layout__main {

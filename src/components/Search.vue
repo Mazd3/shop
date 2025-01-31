@@ -43,13 +43,13 @@ export default {
   font-size: 14px;
   width: 100%;
   padding: 0 16px;
-  border: 1px solid #E1E1E1;
+  border: 1px solid var(--c-border);
   border-right: 0;
   outline: none;
   background: none;
 
   &:focus {
-    border: 1px solid #B5B5B5;
+    border: 1px solid var(--c-border);
   }
   
   &::placeholder {

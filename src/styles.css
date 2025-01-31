@@ -4,8 +4,9 @@
   --c-text-white: #F4F6F9;
   --c-accent: #382E2B;
   --c-accent-hover: #776763;
-  --c-accent-disable: #C1B4B1;
+  --c-accent-disabled: #C1B4B1;
   --c-accent-selected: #5B3A32;
+  --c-border: #E1E1E1;
 
   --content-width: 1240px;
 }
